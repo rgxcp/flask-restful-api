@@ -1,4 +1,4 @@
-# Python REST API
+# Python - REST API
 Simple REST API using Python Flask &amp; MariaDB
 
 ## Requirement
