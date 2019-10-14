@@ -12,9 +12,7 @@ Simple REST API using Python Flask &amp; MariaDB
 Table Name : cinemas
 
 Table Structure
-++++++++++++++++++++++\
-| id       | INT     |\
-| title    | VARCHAR |\
-| year     | VARCHAR |\
-| director | VARCHAR |\
-++++++++++++++++++++++\
+id --> INT, NOT NULL, AUTO INCREMENT, PRIMARY KEY
+title --> VARCHAR
+year --> VARCHAR
+director --> VARCHAR
