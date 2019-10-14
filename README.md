@@ -7,3 +7,14 @@ Simple REST API using Python Flask &amp; MariaDB
 3. Flask
 4. Flask-RESTful
 5. PyMySQL
+
+## Database Structure
+Table Name : cinemas
+
+Table Structure
+++++++++++++++++++++++
+| id       | INT     |
+| title    | VARCHAR |
+| year     | VARCHAR |
+| director | VARCHAR |
+++++++++++++++++++++++
