@@ -1,7 +1,7 @@
-# py-restapi
+# Python REST API
 Simple REST API using Python Flask &amp; MariaDB
 
-Requirement
+## Requirement
 1. Python 3.x
 2. MariaDB
 3. Flask
