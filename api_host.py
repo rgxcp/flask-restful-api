@@ -7,7 +7,7 @@ import pymysql
 app = Flask(__name__)
 api = Api(app)
 
-conn = pymysql.connect('localhost', 'username', 'password', 'databasename')
+conn = pymysql.connect('localhost', 'root', '', 'tpt_dua')
 curs = conn.cursor(pymysql.cursors.DictCursor)
 
 class Root(Resource):
