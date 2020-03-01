@@ -1,4 +1,4 @@
-# Python - REST API
+# Python - Flask - REST API
 Simple REST API using Python with CRUD functions.
 
 ## Requirements
