@@ -1,6 +1,9 @@
 # Python - Flask - REST API
 Simple REST API using Python with CRUD functions.
 
+## Status
+END OF LIFE
+
 ## Requirements
 1. Python 3.x
 2. MariaDB
