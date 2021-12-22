@@ -1,4 +1,4 @@
-# 🥃 Python - Flask - REST API
+# 🥃 Flask RESTful API
 Simple REST API using Python with CRUD functions.
 
 ## Status
